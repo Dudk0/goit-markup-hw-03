@@ -69,7 +69,7 @@
     width: 145px;
     height: 31px;
   }
-  .footer > .logo {
+  .footer  .logo {
     color: var(--logo-down-color);
   }
   .logo-text {
